@@ -19,7 +19,7 @@
 
 - 🔭 I'm currently working on **Frontend**
 - 🌱 I'm currently learning **Vue,Quantum computing**
-- 💬 Ask me about **Python, JavaScript, Vue, HTML, CSS**
+- 💬 Ask me about **C++, Python, JavaScript, Vue, HTML, CSS**
 - 📫 How to reach me: **QQ: 3443929072**
 
 ---
@@ -27,6 +27,7 @@
 ### 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -46,8 +47,8 @@
   <a href="https://github.com/cbdxdd123">
     <img src="https://img.shields.io/badge/-cbdxdd123-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://t.me/cbdxdd123">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" />
+  <a href="tencent://message/?uin=3443929072">
+    <img src="https://img.shields.io/badge/-QQ-12B7F5?style=flat&logo=&logoColor=white" />
   </a>
   <a href="mailto:cbdxdd123@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
