@@ -37,7 +37,7 @@
 ### 📊 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/斵༒㲯?theme=dark&font=Kanit&ext=heatmap" width="100%"/>
+  <img src="https://leetcard.jacoblin.cool/zhuo-xx-k?theme=dark&font=Kanit&ext=heatmap" width="100%"/>
 </p>
 
 ---
