@@ -37,7 +37,9 @@
 ### 📊 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/zhuo-xx-k?theme=dark&font=Kanit&ext=heatmap" width="100%"/>
+  <a href="https://leetcode.cn/u/zhuo-xx-k/">
+    <img src="https://leetcard.jacoblin.cool/zhuo-xx-k?theme=dark&font=Kanit&ext=heatmap" width="100%"/>
+  </a>
 </p>
 
 ---
