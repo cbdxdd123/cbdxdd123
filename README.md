@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://leetcode.cn/u/zhuo-xx-k/">
-    <img src="https://leetcard.jacoblin.cool/zhuo-xx-k?theme=dark&font=Kanit&ext=heatmap" width="100%"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
