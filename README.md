@@ -34,17 +34,7 @@
 
 ---
 
-### 📊 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.cn/u/zhuo-xx-k/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📈 Activity Graph
+###  Activity Graph
 
 ![cbdxdd123's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cbdxdd123&bg_color=0d1117&color=58a6ff&line=7ee787&point=c9d1d9&area=true&hide_border=true)
 
