@@ -6,12 +6,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
 </h1>
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbdxdd123&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbdxdd123&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=7ee787)
-
-</div>
 
 ---
 
