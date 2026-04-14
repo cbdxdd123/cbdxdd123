@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:7ee787&height=200&section=header&text=Welcome%20to%20my%20world&fontSize=60&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00ff,100:00ffff&height=300&section=header&text=SYSTEM%20BREACH&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20my%20world&descAlignY=65&descSize=25&stroke=00ffff&strokeWidth=2" width="100%"/>
 </p>
 
 <h1 align="center">
@@ -56,5 +56,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:7ee787&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00ff,100:00ffff&height=150&section=footer&stroke=00ffff&strokeWidth=2" width="100%"/>
+</p>
 </p>
